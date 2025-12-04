@@ -1,0 +1,1 @@
+# mgcooling-daily
