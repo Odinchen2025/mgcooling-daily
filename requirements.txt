@@ -1,0 +1,30 @@
+streamlit
+feedparser
+pandas
+
+
+---
+
+### ✅ 步驟二：填寫 Streamlit 部署表單
+
+當 GitHub 檔案都放好後，請回到您截圖的那個畫面，依照下圖指示填寫：
+
+1.  **Repository (儲存庫)**：
+    * 請點擊輸入框，選擇 **`Odinchen2025/mgcooling-daily`**。
+    * *注意：如果下拉選單沒看到，請點擊右側 "Paste GitHub URL"，貼上 `https://github.com/Odinchen2025/mgcooling-daily`*
+
+2.  **Branch (分支)**：
+    * 輸入 **`main`**。
+    * *原因：看您的 GitHub 截圖，預設分支名稱是 main，而不是 master。這點很重要，填錯會失敗。*
+
+3.  **Main file path (主程式路徑)**：
+    * 輸入 **`app.py`**。
+    * *原因：這要對應我們剛剛在 GitHub 建立的檔名。*
+
+4.  **App URL (網址)**：
+    * 您可以自訂，例如輸入 **`mgcooling-daily`**。
+    * 這樣您的網址就會是漂亮且好記的 `https://mgcooling-daily.streamlit.app`。
+
+5.  最後點擊藍色的 **Deploy!** 按鈕。
+
+系統會開始轉圈圈跑安裝程式（大約 1-2 分鐘），等它跑完，您的自動化情報日報就正式上線了！
